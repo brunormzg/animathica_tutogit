@@ -4,4 +4,4 @@
 print("Han completado este tutorial:")
 
 #Agregar aquí 
-print("Ethan Leonel García Melena")
+print("Daniel Hernandez")
